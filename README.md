@@ -1,3 +1,5 @@
+# THIS PROJECT IS ABANDONED, INSTEAD USE SOMETHING LIKE [WEXPECT](https://github.com/raczben/wexpect)
+
 This is WinPexpect, a version of pexpect that works on windows.
 
 At the moment it includes a modified copy of pexpect, but the goal is to
